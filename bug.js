@@ -1,0 +1,1 @@
+This error occurs when using Expo's `Linking` API to open a URL and the URL is invalid or inaccessible.  It's particularly tricky because it doesn't always provide a clear error message, sometimes only logging a generic error to the console.
